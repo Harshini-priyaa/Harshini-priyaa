@@ -1,4 +1,4 @@
-### Hey there 👋 Harshinipriyaa Here!!
+### Hey there 👋 Harshinipriyaa Here!
 <!--
 **Harshini-priyaa/Harshini-priyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
