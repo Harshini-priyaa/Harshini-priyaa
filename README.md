@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshinipriyaa</h1>
-<h3 align="center">A passionate frontend and Blockchain developer from India</h3>
+<h3 align="center">A passionate frontend and Blockchain developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshini-priyaa&label=Visitors&color=1196e8&style=flat-square" alt="harshini-priyaa" /> </p>
 
