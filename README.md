@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Frontend**.
 
-- 💬 Ask me about **Java, Frontend, Blockchain**
+- 💬 Ask me about **Java , Frontend , Blockchain**
 - Ping me here!
 <div align="center"> 
   <a href="mailto:harshinipriyaa1112@gmail.com @gmail.com">
