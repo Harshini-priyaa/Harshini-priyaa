@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshini-priyaa&label=Visitors&color=1196e8&style=flat-square" alt="harshini-priyaa" /> </p>
 
-- 🌱 I’m currently learning **Frontend**.
+- 🌱 I’m currently learning **Frontend**
 
 - 💬 Ask me about **Java , Frontend , Blockchain**
 - Ping me here!!
